@@ -1,5 +1,8 @@
 Hi! Welcome to Snakes and Ladders.
 As of this moment, the game is incomplete.
+
+BIG NOTE!!! For some reason, when this code got exported or whatever...the images won't display now. No idea why.
+
 The snakes don't send you down, the ladders don't send you up.
 But what DOES work is the dice...and movement? (Kinda)
 Ok, movement is kinda busted, but it can still cause the "movement" across the board.
